@@ -7,3 +7,4 @@ Nessa Aula aprendi a abrir o visual studio code pelo cmd
 Teste
 testes para ver status depois de feito o commit
 Modificação para estudar diff
+Enviando mudançãs para um repositório remoto
